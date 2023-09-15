@@ -2,8 +2,8 @@
     "verification":"d1c28f5f4e53bbbb08",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "url_png_icon_64x64": "https://imgur.com/gHkEMy0; max 40kb",
+        "url_png_logo": "https://imgur.com/gHkEMy0; max 50kb",
         "location": "London, England",
         "social": {
             "twitter_handle": "cexplorer_io",
