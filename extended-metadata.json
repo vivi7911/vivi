@@ -1,6 +1,6 @@
 {
     "verification":"d1c28f5f4e53bbbb08",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/vivi7911/vivi/main/pool-metadata.json",
     "info": {
         "url_png_icon_64x64": "https://imgur.com/gHkEMy0; max 40kb",
         "url_png_logo": "https://imgur.com/gHkEMy0; max 50kb",
