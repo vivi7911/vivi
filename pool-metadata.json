@@ -3,5 +3,5 @@
   "ticker": "VIVI", 
   "description": "Cardano to the moon", 
   "homepage": "https://vivi-stakepool.com/", 
-  "extended": "https://raw.githubusercontent.com/cardanians/cexplorer.io/master/examples/extended-metadata.json"
+  "extended": "https://raw.githubusercontent.com/vivi-chao/vivi/main/extended-metadata.json"
 }
