@@ -3,4 +3,5 @@
 "description": "Cardano to the moon",
 "ticker": "VIVI",
 "homepage": "https://vivi-stakepool.com/"
+"verification":"verification-string-here-for-pool-claim",
 }
