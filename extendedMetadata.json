@@ -2,8 +2,8 @@
     "verification":"d1c28f5f4e53bbbb08",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/vivi7911/vivi/main/poolMetaData.json",
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/vivi7911/vivi/main/vivineko-01.png; max 40kb",
-        "url_png_logo": "https://raw.githubusercontent.com/vivi7911/vivi/main/vivineko-01.png; max 50kb",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/vivi7911/vivi/main/vivineko-01.png",
+        "url_png_logo": "https://raw.githubusercontent.com/vivi7911/vivi/main/vivineko-01.png",
         "location": "London, England",
         "social": {
             "twitter_handle": "cexplorer_io",
